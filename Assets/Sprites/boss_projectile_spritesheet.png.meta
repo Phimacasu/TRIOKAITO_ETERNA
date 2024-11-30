@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 239ab235480199b4e8f4f288141c7038
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_projectile_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 10
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed060178d9571640a8e747ee6bc8c1a
+      internalID: 298003325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_projectile_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 6
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369c51028d6671647ae3d57c0d4a406f
+      internalID: -1014825036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_projectile_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 23
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c477e01e33ca41c48a134201e74d2651
+      internalID: -1984827279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_projectile_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 4
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf8e8c6ea1995f458ffab0e675c462c
+      internalID: 816340410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_projectile_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 6
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad610c85177ac8e4ea2b3b520a562b12
+      internalID: -1085925323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_projectile_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e706be1c4c0e84487113008981b71b
+      internalID: -1262988333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_projectile_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6185a9f0e6cb5cd4287800ea4b235551
+      internalID: 1341426494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_projectile_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 22
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75786e97b4b59449b6615b4baad416e
+      internalID: 1793283123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_projectile_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 19
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba328d155b78434eba2dbb2e3714e18
+      internalID: -423567763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boss_projectile_spritesheet_0: 816340410
+      boss_projectile_spritesheet_1: -1085925323
+      boss_projectile_spritesheet_10: 77044525
+      boss_projectile_spritesheet_11: -1240951553
+      boss_projectile_spritesheet_12: 1846049419
+      boss_projectile_spritesheet_13: 1118071393
+      boss_projectile_spritesheet_14: 891387687
+      boss_projectile_spritesheet_15: 781070637
+      boss_projectile_spritesheet_16: -646636993
+      boss_projectile_spritesheet_17: 865656886
+      boss_projectile_spritesheet_18: -1984827279
+      boss_projectile_spritesheet_19: 839085785
+      boss_projectile_spritesheet_2: -1262988333
+      boss_projectile_spritesheet_20: 150331462
+      boss_projectile_spritesheet_21: 657918044
+      boss_projectile_spritesheet_22: 2104043244
+      boss_projectile_spritesheet_23: 1682893411
+      boss_projectile_spritesheet_24: 1240143798
+      boss_projectile_spritesheet_25: -303779005
+      boss_projectile_spritesheet_26: 1241414447
+      boss_projectile_spritesheet_27: 1798690327
+      boss_projectile_spritesheet_28: -1098337497
+      boss_projectile_spritesheet_29: -614437152
+      boss_projectile_spritesheet_3: 1341426494
+      boss_projectile_spritesheet_30: -2139899621
+      boss_projectile_spritesheet_31: 1276205431
+      boss_projectile_spritesheet_32: -611781201
+      boss_projectile_spritesheet_33: -331455797
+      boss_projectile_spritesheet_34: 83126543
+      boss_projectile_spritesheet_35: -1069219670
+      boss_projectile_spritesheet_36: 539514456
+      boss_projectile_spritesheet_37: 998509452
+      boss_projectile_spritesheet_38: -1975344448
+      boss_projectile_spritesheet_39: -1595610575
+      boss_projectile_spritesheet_4: 1793283123
+      boss_projectile_spritesheet_40: -1222188781
+      boss_projectile_spritesheet_41: -1564501609
+      boss_projectile_spritesheet_42: -154288118
+      boss_projectile_spritesheet_43: -1120843013
+      boss_projectile_spritesheet_44: -674326817
+      boss_projectile_spritesheet_45: -1032437156
+      boss_projectile_spritesheet_46: 1227799455
+      boss_projectile_spritesheet_47: -624161157
+      boss_projectile_spritesheet_48: -1362714108
+      boss_projectile_spritesheet_49: -647992789
+      boss_projectile_spritesheet_5: -423567763
+      boss_projectile_spritesheet_50: -315144999
+      boss_projectile_spritesheet_51: 671746209
+      boss_projectile_spritesheet_52: -248687438
+      boss_projectile_spritesheet_53: 811650683
+      boss_projectile_spritesheet_54: 130703719
+      boss_projectile_spritesheet_55: -1710517007
+      boss_projectile_spritesheet_56: 999668822
+      boss_projectile_spritesheet_57: 1718801868
+      boss_projectile_spritesheet_58: 131222504
+      boss_projectile_spritesheet_59: -758330318
+      boss_projectile_spritesheet_6: 298003325
+      boss_projectile_spritesheet_7: 1194818208
+      boss_projectile_spritesheet_8: -1014825036
+      boss_projectile_spritesheet_9: -1492942913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
